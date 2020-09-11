@@ -1,4 +1,4 @@
-<em>"parameters": {
+"parameters": {
         "PlaybookName": {
             "defaultValue": "Test2",
             "type": "string"
@@ -16,4 +16,3 @@
             "type": "string"
         }
     },
-</em>
