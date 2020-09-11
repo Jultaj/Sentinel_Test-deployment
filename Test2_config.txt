@@ -1,0 +1,19 @@
+<em>"parameters": {
+        "PlaybookName": {
+            "defaultValue": "Test2",
+            "type": "string"
+        },
+        "UserName": {
+            "defaultValue": "vegard.odegaard@rejlers.no",
+            "type": "string"
+        },
+        "AutomationAccount": {
+            "defaultValue": "ncopmgmt-mgmt-automation",
+            "type": "string"
+        },
+        "HybridWorkGroup": {
+            "defaultValue": "Default",
+            "type": "string"
+        }
+    },
+</em>
